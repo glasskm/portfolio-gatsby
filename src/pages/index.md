@@ -1,21 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Search for fabric for your next big project
+image: /img/pexels-pixabay-461035.jpg
+heading: "*"
+subheading: "*"
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why Fabric MegaSearch
+  description: |
+    Tired of searching multiple websites for the perfect fabric for your project
+description: "Fabric MegaSearch takes the best sewing website and put them
+  together for one convenient search. Don't know what you want to buy? we have a
+  survey to help you narrow down your options. "
 intro:
   blurbs:
     - image: /img/coffee.png
